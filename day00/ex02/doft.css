@@ -1,0 +1,148 @@
+body {
+	background-color: RGB(80,80,80);
+}
+
+p { 
+	font-size: 1.1vw;
+	font-family: Arial;
+	margin-right:10% ;
+}
+
+input {
+	width: 70%;
+	padding:0.5%;
+}
+
+button {
+	width: 20%;
+	font-size:1vw;
+	padding:0.8%;
+}
+
+#box {
+	background-color: RGB(144, 144, 144);
+	box-shadow: 10px 10px 12px;
+	border-radius: 5px;
+	padding: 0.5%;
+}
+.header {
+	margin-top:1.5%;
+	margin-left:11%;
+	margin-right:11%;
+	margin-bottom:1.5%;
+}
+
+.header2 {
+	width:20%;
+	float:right;
+}
+
+.header3 {
+	width:2%;
+	float:right;
+}
+
+.left {
+	margin-left: 12%;
+	width: 8%;
+	float: left;
+}
+
+.middle {
+	margin-left: 1.5%;
+	width: 54%;
+	float: left;
+}
+.right {
+	margin-left:1.5%;
+	width:8vw;
+	float: left;
+}
+
+.form {
+	position:absolute;
+	box-shadow: 10px 10px 12px;
+	border-radius: 5px;
+	margin-left:7%;	
+	margin-top: 28%;	
+	width:30%;
+	background-color: RGB(140, 253, 142);
+	padding-left:0.5%;
+
+}
+
+.areamac {
+	width: 10%;
+	height:8vw;
+	position:absolute;
+	margin-top: 17%;
+	margin-left:42%;
+}
+
+.areachair {
+	width: 7%;
+	height:12vw;
+	position:absolute;
+	margin-top: 17%;
+	margin-left:17%;
+}
+
+.img42 {
+	width:35%;
+}
+
+.imgloupe {
+	width:100%;
+	float: left;
+}
+
+.imgreload {
+	width: 80%;
+}
+
+.imgclose {
+	width: 80%;
+	margin-top:300%;
+}
+.tablehead {
+	width: 20%;
+	float: right;
+	background-color:red;
+}
+
+.imgbutton {
+	width:60%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:5%;
+	display:block;
+}
+
+.imgoeil {
+	width:60%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:5%;
+	display:block;
+	border-width: 5%;
+	border-color: red;
+	border-style:solid;
+	border-width: thick;
+	border-radius: 5px 5px;
+
+}
+
+.wall  {
+	background-image: url("resources/brick.jpg");
+	background-repeat: repeat;
+	background-size: 30%;
+	margin:auto;
+	display:block;
+	width: 90%;
+	height: 4.5vw;
+	margin-bottom: 120%;							
+}
+
+.textshadow {
+	text-shadow: 5px 5px 5px red;
+}
