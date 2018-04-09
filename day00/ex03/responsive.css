@@ -1,0 +1,107 @@
+body {
+	background-image: url("https://images.unsplash.com/photo-1516452391242-15957b3bb26a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=30a81ef2764800e13d06c8c32d2b8cf7&auto=format&fit=crop&w=927&q=80");
+	background-size: 100%;
+	font-family: 'Courier New';
+	color: white;
+}
+
+p {
+	margin: 0;
+	padding:0;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 4vw;
+	margin-bottom:0;
+}
+
+table {
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:1vw;
+	table-layout:fixed;
+}
+
+td {
+	width: 4vw;
+	height: 4vw;
+}
+
+.main {
+	margin-left: 8%;
+	margin-right: 8%;
+}
+
+.blank {
+	vertical-align: bottom;
+	text-align:center;
+	font-size:1vw;
+}
+
+.show {
+	border-style:solid;
+	border-width:0.2vw;
+}
+
+.num {
+	font-size:0.7vw;
+	text-align: left;
+}
+
+.weight {
+	font-size:0.5vw;
+	text-align: right;
+	vertical-align: top;
+}
+
+.element {
+	font-size:2vw;
+	text-align: center;
+	margin-top:1vw;
+}
+
+#m_alcalin {
+	background-color:#3D306E;
+}
+
+#alc_terreux {
+	background-color:#DCBC94;
+}
+
+#lanthanide {
+	background-color:#789FA9;
+}
+
+#actinide {
+	background-color:#9CB9B0;
+}
+
+#m_transition {
+	background-color:#B6B8D6;
+}
+
+#m_pauvre {
+	background-color:#9590DA;
+}
+
+#metalloide {
+	background-color:#46687B;
+}
+
+#n_metaux {
+	background-color:#DDCFA4;
+}
+
+#halogene {
+	background-color:#D3A779;
+}
+
+#gaz_noble {
+	background-color:#BBDBD1;
+}
+
+#non_classe {
+	background-color:#98939F;
+}
